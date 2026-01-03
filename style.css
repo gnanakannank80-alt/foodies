@@ -34,7 +34,6 @@ li:hover{
 
 .body{
     text-align: center;
-    margin-left: 400px;
     width: 700px;
     height: 300px;
 }
@@ -46,7 +45,6 @@ li:hover{
     margin: 20px; 
     padding: 30px;
     text-align: center;
-    margin-left: 400px;
     width: 700px;
     height: 300px;
 }
@@ -138,3 +136,4 @@ option{
   background-color: white;
   padding: 10px;
 }
+
