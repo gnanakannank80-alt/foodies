@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+     background-color: black;
+}
+div{
+    padding: 20px;
+    margin: 10px;
+}
+h1,ul,li{
+    background-color: black;
+    color: orangered;
+    display: inline;
+    
+}
+ul{
+    margin-left: 50%;
+}
+li{
+    color: white;
+}
+li:hover{
+    background-color: orangered;
+    color: black;
+}
+
+.btn{
+    display: inline-block;
+    padding: 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.body{
+    text-align: center;
+    margin-left: 400px;
+    width: 700px;
+    height: 300px;
+}
+.box{
+    border-color: orangered;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 20px; 
+    padding: 30px;
+    text-align: center;
+    margin-left: 400px;
+    width: 700px;
+    height: 300px;
+}
+
+h2{
+    color: white;
+}
+.but{
+    background-color:orangered;
+    color: black;
+    border-radius: 10px;
+    padding: 12px;
+    text-decoration:none;
+    display: inline-block;
+}
+.but:hover{
+    background-color: white;
+    color: orangered;
+    text-decoration:none;
+
+}
+.one{
+     border: 2px solid orangered;
+}
+.call{
+    background-color:rgb(16, 16, 16);
+    color: rgb(242, 8, 8);
+    border-radius: 10px;
+    padding: 12px;
+    text-decoration:none;
+    display: inline-block;
+}
+.menu{
+    margin-left: 200px;
+    display: inline-block;
+}
+.bg {
+    background: url("piz.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 250vh;
+    
+  }
+  .send{
+    border-color: orangered;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 5px;
+    margin: 20px; 
+    padding: 30px;
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+}
+input{
+    background-color: white;
+    padding: 12px;
+    color: black;
+}
+h3{
+    color: orangered;
+}
+.box1{
+    display: inline-block;
+    width: 300px;
+    border-color: rgb(255, 100, 4);
+    border-style: solid;
+    border-width: 5px;
+   
+}
+p{
+    color: aliceblue;
+}
+.menu h2{
+    background-color:black;
+    padding: 15px;
+    border-radius: 12px;
+    text-decoration: none;
+    display: inline-block;
+}
+.menu h2:hover{
+    background-color: white;
+    color: orangered;
+}
+option{
+    background-color: aliceblue;
+}
+.food-select {
+  color: black;          /* text color */
+  background-color: white;
+  padding: 10px;
+}
