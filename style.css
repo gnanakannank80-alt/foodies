@@ -85,7 +85,7 @@ h2{
 .bg {
     background: url("piz.jpg") no-repeat center center fixed;
     background-size: cover;
-    height: 200vh;
+    height: 100vh;
     
   }
   .send{
@@ -135,6 +135,7 @@ option{
   background-color: white;
   padding: 10px;
 }
+
 
 
 
