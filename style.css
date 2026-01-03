@@ -77,7 +77,6 @@ h2{
     display: inline-block;
 }
 .menu{
-    margin-left: 200px;
     display: inline-block;
 }
 .bg {
@@ -135,6 +134,7 @@ option{
   background-color: white;
   padding: 10px;
 }
+
 
 
 
