@@ -14,7 +14,7 @@ h1,ul,li{
     
 }
 ul{
-    margin-left: 50%;
+    margin-left: 20%;
 }
 li{
     color: white;
@@ -136,4 +136,5 @@ option{
   background-color: white;
   padding: 10px;
 }
+
 
